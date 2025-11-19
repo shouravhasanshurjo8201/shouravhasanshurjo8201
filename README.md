@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shourav Hasan</h1>
-## 🔭 I build things with JavaScript, React, and Node.js
+<h3 align="center">🔭 I build things with JavaScript, React, and Node.js</h3>
 
 # 💫 About Me:
 I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  <br>Currently, I'm focused on expanding my knowledge in **Express.js** and **MongoDB** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!<br><br>
-
 
 <h3 align="left">Connect with me: yasirhamidshourav0247@gmail.com </h3>
 <p align="left">
