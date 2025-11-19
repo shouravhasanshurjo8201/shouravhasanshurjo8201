@@ -1,4 +1,4 @@
-<img src="[https://komarev.com/ghpvc/?username=shouravhasanshurjo8201&label=Profile%20views&color=0e75b6&style=flat](https://i.postimg.cc/QdzFqkZs/Green-Modern-Medical-Facebook-Fundraiser-Cover-Photo.png)" alt="shouravhasanshurjo8201" />
+<img src="https://i.postimg.cc/QdzFqkZs/Green-Modern-Medical-Facebook-Fundraiser-Cover-Photo.png" alt="shouravhasanshurjo8201" />
 
 <h1 align="center">Hi 👋, I'm Shourav Hasan</h1>
 <h3 align="center">🔭 I build things with JavaScript, React, and Node.js</h3>
