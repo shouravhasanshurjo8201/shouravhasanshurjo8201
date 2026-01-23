@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/QdzFqkZs/Green-Modern-Medical-Facebook-Fundraiser-Cover-Photo.png" alt="Shourav Hasan Banner" width="100%" />
+  <img src="https://i.postimg.cc/654ngmnY/Gemini-Generated-Image-jsokofjsokofjsok.png" alt="Shourav Hasan Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shourav Hasan</h1>
