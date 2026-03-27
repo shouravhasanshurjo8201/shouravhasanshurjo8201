@@ -77,19 +77,25 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=shouravhasanshurjo8201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" /></td>
+      <td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouravhasanshurjo8201&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" /></td>
+      <td width="33%"><img src="https://github-profile-trophy.vercel.app/?username=shouravhasanshurjo8201&theme=tokyonight&no-frame=true&column=2&row=3" alt="Trophies" /></td>
+    </tr>
+    <tr>
+      <td width="33%"><img src="https://nirzak-streak-stats.vercel.app/?user=shouravhasanshurjo8201&theme=tokyonight&hide_border=true" alt="Streak" /></td>
+      <td width="33%"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" /></td>
+      <td width="33%"><img src="https://raw.githubusercontent.com/shouravhasanshurjo8201/shouravhasanshurjo8201/output/github-contribution-grid-snake.svg" alt="Snake Animation" /></td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouravhasanshurjo8201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouravhasanshurjo8201&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shouravhasanshurjo8201&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Full Activity Graph" />
 </p>
 
 ---
