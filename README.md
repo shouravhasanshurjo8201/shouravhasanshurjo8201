@@ -80,9 +80,9 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
 ## 📊 GitHub Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night&hide_border=true&area=true" 
-       width="100%" 
-       alt="📈 Detailed Activity Timeline: Visualizing Daily Coding Progress" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouravhasanshurjo8201&theme=tokyonight&hide_border=true" 
+       height="180px" 
+       alt="🔥 Coding Streak: Tracking Daily Consistency" />
 </p>
 
 <p align="center">
@@ -90,15 +90,16 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
        height="180px" 
        alt="Profile Details" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouravhasanshurjo8201&theme=tokyonight&hide_border=true" 
-       height="180px" 
-       alt="🔥 Coding Streak: Tracking Daily Consistency" />
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb,express,tailwind,firebase,git,github,vercel,figma&theme=dark" alt="My Tech Stack Icons" />
-  </a>
+</p>
+
+<p align="center">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night&hide_border=true&area=true" 
+       width="100%" 
+       alt="📈 Detailed Activity Timeline: Visualizing Daily Coding Progress" />
 </p>
 
 ---
