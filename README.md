@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shourav Hasan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Specialist;Real-Time+App+Architect;Building+Scalable+Solutions🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Full+Stack+Web+Developer;MERN+%26+Next.js+Expert;Real-Time+App+Architect;Building+Scalable+Solutions🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,14 +16,15 @@
 
 ## 💫 About Me
 
-I am a results-driven **Full Stack Web Developer** from Jamalpur, Bangladesh, dedicated to building modern, high-performance web applications.
+I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, dedicated to engineering modern, high-performance web applications. I thrive at the intersection of clean, scalable code and functional, user-centric design.
 
-💡 **My Expertise:** I specialize in the **MERN Stack** and am currently scaling my skills with **Next.js** to build production-ready, SEO-optimized platforms. 
-🚀 **My Goal:** To bridge the gap between clean, user-centric design and robust backend architecture.
+💡 **My Expertise:** I specialize in the **MERN Stack** and am currently scaling my skills with **Next.js (App Router)** and **Advanced Backend Architectures** to build production-ready, SEO-optimized platforms.
+
+🚀 **My Goal:** To bridge the gap between clean UI/UX and robust server-side logic, contributing to innovative tech solutions that solve practical, global problems.
 
 ---
 
-## 🧠 Tech Stack & Skills
+## 🧠 Tech Stack & Expertise
 
 ### 🎨 Frontend & Design
 <p align="left">
@@ -31,6 +32,7 @@ I am a results-driven **Full Stack Web Developer** from Jamalpur, Bangladesh, de
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
   </a>
 </p>
+- **Specialization:** Responsive UI, Next.js Server Components, Material UI.
 
 ### ⚙️ Backend & Security
 <p align="left">
@@ -38,7 +40,7 @@ I am a results-driven **Full Stack Web Developer** from Jamalpur, Bangladesh, de
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
   </a>
 </p>
-**Core Concepts:** NextAuth.js, JWT, Role-Based Access Control (RBAC), Socket.io (Real-time).
+- **Core Concepts:** NextAuth.js, JWT, Role-Based Access Control (RBAC), Socket.io (Real-time Communication).
 
 ### 🛠️ Tools & Deployment
 <p align="left">
@@ -46,15 +48,16 @@ I am a results-driven **Full Stack Web Developer** from Jamalpur, Bangladesh, de
     <img src="https://skillicons.dev/icons?i=git,github,vercel,npm,vscode" />
   </a>
 </p>
+- **Workflow:** Advanced Git Workflows, RESTful APIs, CRUD Operations.
 
 ---
 
 ## 🚀 Current Focus & Activities
 
-- 🏗️ **OnWay:** Developing a complex ride-sharing system with real-time chat and multi-role dashboards.
-- 🔐 **Security:** Implementing advanced authentication systems using **NextAuth.js**.
-- 📈 **Performance:** Mastering Server Components and Server Actions in **Next.js**.
-- 🌱 **Growth:** Exploring system design and scalable backend architecture.
+- 🏗️ **OnWay:** Developing a complex real-time ride-sharing system with multi-role dashboards.
+- 🔐 **Security Mastery:** Implementing advanced auth systems using **NextAuth.js** and **Server Actions**.
+- 📈 **Optimization:** Mastering high-performance backend architecture and DB aggregation.
+- 🌱 **Growth:** Actively exploring the latest trends in the **Full-Stack Ecosystem**.
 
 ---
 
@@ -62,15 +65,15 @@ I am a results-driven **Full Stack Web Developer** from Jamalpur, Bangladesh, de
 
 ### 🚗 OnWay (Ride-Sharing System)
 - **Multi-role:** Passenger, Rider, Support Agent, and Admin.
-- **Features:** Real-time chat (Socket.io), secure file/image sharing, and dynamic routing.
-- **Tech:** React, Node.js, Express, MongoDB.
+- **Features:** Real-time chat (Socket.io), secure file/image sharing, and dynamic role-based access.
+- **Impact:** Built with a focus on real-world scalability and secure communication.
 
 ### 🧵 Garments Production Tracker
-- **Focus:** Industrial order management and real-time status tracking for factory workflows.
-- **Impact:** Streamlined data management and operational efficiency.
+- **Focus:** Industrial order management and real-time status tracking for large-scale factory workflows.
+- **Tech:** MERN Stack, focusing on operational efficiency and data accuracy.
 
 ### 📦 H.K Workflow & Import-Export Hub
-- Premium inventory management and global trade solutions with a focus on modern UI/UX and seamless performance.
+- Premium inventory management and global trade solutions with a high emphasis on modern UI and seamless performance.
 
 ---
 
@@ -92,7 +95,7 @@ I am a results-driven **Full Stack Web Developer** from Jamalpur, Bangladesh, de
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="left">
 <a href="mailto:yasirhamidshourav0247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
