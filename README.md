@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/s1CXtwCm/uywy7t748247.png" alt="Shourav Hasan Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQET2qfBxlLr3A/profile-displaybackgroundimage-shrink_200_800/B56ZyqPEgQHQAU-/0/1772382605360?e=2147483647&v=beta&t=bt013sc8F9mSdRrKtCc8zcVwoSuDvxPux8QYlcY8nQw" alt="Shourav Hasan Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shourav Hasan</h1>
@@ -38,7 +38,7 @@ I am a results-driven **Full Stack Web Developer** from Jamalpur, Bangladesh, de
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
   </a>
 </p>
-- **Core Concepts:** NextAuth.js, JWT, Role-Based Access Control (RBAC), Socket.io (Real-time).
+**Core Concepts:** NextAuth.js, JWT, Role-Based Access Control (RBAC), Socket.io (Real-time).
 
 ### 🛠️ Tools & Deployment
 <p align="left">
