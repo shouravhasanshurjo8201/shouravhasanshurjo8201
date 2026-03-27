@@ -1,113 +1,132 @@
 <p align="center">
-  <img src="https://i.postimg.cc/s1CXtwCm/uywy7t748247.png" alt="Shourav Hasan Banner" width="100%" />
+  <img src="https://i.postimg.cc/s1CXtwCm/uywy7t748247.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shourav Hasan</h1>
-<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Real-Time+App+Developer;Always+Learning+New+Things🚀" />
+</p>
+
+<h3 align="center">🚀 Passionate MERN Stack Developer from Bangladesh</h3>
 
 ---
 
 ## 💫 About Me
 
-I am a passionate **Full Stack Web Developer** focused on building scalable, modern, and high-performance web applications.
+💻 I am a dedicated **Full Stack Developer** who loves building scalable and modern web applications.
 
-💡 I specialize in the **MERN Stack (MongoDB, Express.js, React, Node.js)** and enjoy solving real-world problems through clean and efficient code.
+🔥 I specialize in:
+- MERN Stack (MongoDB, Express.js, React, Node.js)
+- Real-time systems (Socket.io)
+- Secure backend architecture
 
-🔥 I love exploring new technologies, improving system design, and creating seamless user experiences.
-
----
-
-## 🚀 What I'm Doing Now
-
-- 🔭 Building a **Tourism Booking Platform**
-- 💬 Developing a **Real-time Chat System (Socket.io + File Sharing)**
-- 🌱 Learning and exploring **Next.js & Advanced Backend Architecture**
-- 🔐 Improving skills in **Authentication & API Security (JWT, Role-based system)**
+⚡ I enjoy solving real-world problems and building impactful projects.
 
 ---
 
-## 🧠 Skills & Expertise
+## 🚀 Current Focus
 
-### 🎨 Frontend Development
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- Tailwind CSS
-- Responsive & Modern UI Design
+- 🔭 Building **Ride Sharing Platform (OnWay)**
+- 💬 Developing **Real-time Chat System (File + Image Sharing)**
+- 🌱 Learning **Next.js & Advanced Backend Design**
+- 🔐 Working on **Authentication & Security (JWT, Role System)**
 
-### ⚙️ Backend Development
-- Node.js & Express.js
-- REST API Development
-- Authentication (JWT)
-- Role-based Access System
+---
 
-### 🗄️ Database
-- MongoDB
-- Firebase
+## 🧠 Tech Stack
 
-### 🛠️ Tools & Technologies
-- Git & GitHub
-- Vercel & Render Deployment
-- Postman (API Testing)
-- Figma (UI Design)
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,postman" />
+</p>
 
 ---
 
 ## 💼 Featured Projects
 
 ### 🚗 OnWay (Ride Sharing System)
-- Multi-role system: **Passenger, Rider, Support Agent, Admin**
-- 💬 Real-time chat system (Socket.io)
+- Multi-role: Passenger | Rider | Support | Admin
+- 💬 Real-time chat (Socket.io)
 - 📎 File & Image sharing
-- 🔐 Secure authentication system
-
-### 🌍 Tourism Website
-- Travel booking platform
-- Modern UI with smooth user experience
-- Optimized performance using latest technologies
+- 🔐 Secure authentication & role system
 
 ---
 
-## 📊 GitHub Stats
+### 🌍 Tourism Website
+- Booking system
+- Clean & modern UI
+- Optimized performance
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouravhasanshurjo8201&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouravhasanshurjo8201&theme=tokyonight&hide_border=true&layout=compact" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shouravhasanshurjo8201&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouravhasanshurjo8201&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shouravhasanshurjo8201&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shouravhasanshurjo8201&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shouravhasanshurjo8201&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:yasirhamidshourav0247@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p>
+<a href="mailto:yasirhamidshourav0247@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/shourav-hasan-22b948396">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/shourav-hasan-22b948396">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/shouravhasanshurjo8201">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/shouravhasanshurjo8201">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 ## 🎯 Career Goal
 
-I aim to become a **Professional Software Engineer** and work on impactful real-world applications, either remotely or in top tech companies.
+🚀 I aim to become a **Professional Software Engineer** and work on real-world impactful systems globally.
 
 ---
 
 <p align="center">
-  ⭐ *"Code. Learn. Build. Repeat."*
+  💡 *"Code. Learn. Build. Repeat."*
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shouravhasanshurjo8201&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=shouravhasanshurjo8201&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
