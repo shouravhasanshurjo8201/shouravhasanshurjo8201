@@ -18,7 +18,7 @@
 
 I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, dedicated to engineering modern, high-performance web applications. I thrive at the intersection of clean, scalable code and functional, user-centric design.
 
-💡 **My Expertise:** I specialize in the **MERN Stack** and am currently scaling my skills with **Next.js (App Router)** and **Advanced Backend Architectures** to build production-ready, SEO-optimized platforms.
+💡 **My Expertise:** I specialize in the **MERN Stack** and am currently scaling my skills with **Next.js (App Router)** and **Advanced Backend Architectures** to build production-ready platforms.
 
 🚀 **My Goal:** To bridge the gap between clean UI/UX and robust server-side logic, contributing to innovative tech solutions that solve practical, global problems.
 
@@ -32,7 +32,7 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma" />
   </a>
 </p>
-- **Specialization:** Responsive UI, Next.js Server Components, Material UI.
+<b>Specialization:</b> Responsive UI, Next.js Server Components, Material UI.
 
 ### ⚙️ Backend & Security
 <p align="left">
@@ -40,7 +40,7 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
   </a>
 </p>
-- **Core Concepts:** NextAuth.js, JWT, Role-Based Access Control (RBAC), Socket.io (Real-time Communication).
+<b>Core Concepts:</b> NextAuth.js, JWT, Role-Based Access Control (RBAC), Socket.io (Real-time Communication).
 
 ### 🛠️ Tools & Deployment
 <p align="left">
@@ -48,16 +48,16 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
     <img src="https://skillicons.dev/icons?i=git,github,vercel,npm,vscode" />
   </a>
 </p>
-- **Workflow:** Advanced Git Workflows, RESTful APIs, CRUD Operations.
+<b>Workflow:</b> Advanced Git Workflows, RESTful APIs, CRUD Operations.
 
 ---
 
 ## 🚀 Current Focus & Activities
 
-🏗️ **OnWay:** Developing a complex real-time ride-sharing system with multi-role dashboards.
-🔐 **Security Mastery:** Implementing advanced auth systems using **NextAuth.js** and **Server Actions**.
-📈 **Optimization:** Mastering high-performance backend architecture and DB aggregation.
-🌱 **Growth:** Actively exploring the latest trends in the **Full-Stack Ecosystem**.
+- 🏗️ **OnWay:** Developing a complex real-time ride-sharing system with multi-role dashboards.
+- 🔐 **Security Mastery:** Implementing advanced auth systems using **NextAuth.js** and **Server Actions**.
+- 📈 **Optimization:** Mastering high-performance backend architecture and DB aggregation.
+- 🌱 **Growth:** Actively exploring the latest trends in the **Full-Stack Ecosystem**.
 
 ---
 
@@ -66,14 +66,14 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
 ### 🚗 OnWay (Ride-Sharing System)
 - **Multi-role:** Passenger, Rider, Support Agent, and Admin.
 - **Features:** Real-time chat (Socket.io), secure file/image sharing, and dynamic role-based access.
-- **Impact:** Built with a focus on real-world scalability and secure communication.
+- **Tech:** React, Node.js, Express, MongoDB.
 
 ### 🧵 Garments Production Tracker
-- **Focus:** Industrial order management and real-time status tracking for large-scale factory workflows.
-- **Tech:** MERN Stack, focusing on operational efficiency and data accuracy.
+- **Focus:** Industrial order management and real-time status tracking for factory workflows.
+- **Impact:** Streamlined data management and operational efficiency.
 
 ### 📦 H.K Workflow & Import-Export Hub
-- Premium inventory management and global trade solutions with a high emphasis on modern UI and seamless performance.
+- Premium inventory management and global trade solutions focusing on modern UI/UX and seamless performance.
 
 ---
 
@@ -88,39 +88,37 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
   <img src="https://github-profile-trophy.vercel.app/?username=shouravhasanshurjo8201&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
-----
 ## 🌐 Let's Connect & Collaborate
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the platforms below!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 <p align="left">
   <a href="https://portfolio-shourav-hasan.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shourav-hasan-22b948396" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/8801879560247" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:yasirhamidshourav0247@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://web.facebook.com/profile.php?id=100080296736228" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://github.com/shouravhasanshurjo8201" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-----
+
 <p align="right">
   ⭐ <i>"Code. Learn. Build. Repeat."</i>
 </p>
