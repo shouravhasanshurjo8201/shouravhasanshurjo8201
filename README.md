@@ -80,35 +80,25 @@ I am a results-driven **Full-Stack Web Developer** from Jamalpur, Bangladesh, de
 ## 📊 GitHub Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=shouravhasanshurjo8201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-       height="180px" 
-       alt="📊 GitHub Profile Stats: Commits, PRs, and Contributions Tracker" />
-  
-  <img src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=shouravhasanshurjo8201&layout=compact&theme=tokyonight&hide_border=true" 
-       height="180px" 
-       alt="🛠️ Top Languages: JavaScript, React, Next.js, and MERN Stack Analysis" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night&hide_border=true&area=true" 
+       width="100%" 
+       alt="📈 Detailed Activity Timeline: Visualizing Daily Coding Progress" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shouravhasanshurjo8201&theme=tokyonight" 
+       height="180px" 
+       alt="Profile Details" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shouravhasanshurjo8201&theme=tokyonight&hide_border=true" 
        height="180px" 
-       alt="🔥 Coding Streak: Tracking Daily Consistency and Commit History" />
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=shouravhasanshurjo8201&theme=tokyonight&no-frame=true&margin-w=15" 
-       height="180px" 
-       alt="🏆 GitHub Achievements: Trophies for Open Source and Development Milestones" />
+       alt="🔥 Coding Streak: Tracking Daily Consistency" />
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb,express,tailwind,firebase,git,github,vercel,figma&theme=dark" alt="My Tech Stack Icons" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouravhasanshurjo8201&theme=tokyo-night&hide_border=true&area=true" 
-       width="100%" 
-       alt="📈 Detailed Activity Timeline: Visualizing Daily Coding Progress" />
 </p>
 
 ---
