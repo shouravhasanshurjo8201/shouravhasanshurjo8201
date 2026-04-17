@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/8kq714km/Full-Stack-Web-Developer-(MERN).png" alt="Shourav Hasan Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/d6bccad5-0d35-469d-95cb-c3424bfb4af4" alt="Shourav Hasan Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shourav Hasan</h1>
